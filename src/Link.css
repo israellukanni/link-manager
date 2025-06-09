@@ -1,0 +1,48 @@
+
+.fullform {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    /* gap: 8px; */
+}
+.xbutton {
+    padding: 0.1em 0.1em;
+}
+.savebutton {
+    margin-left: 10px;
+}
+.hiddenform {
+    display: flex;
+    gap: 8px;
+    align-items: center; 
+    justify-content: center;
+    padding-bottom: 15px;
+    
+}
+.hiddenform a{
+    text-decoration: underline;
+}
+
+.fullform button{
+    padding: 8px;
+}
+.forms {
+    
+    /* display: flex; */
+    padding:10px;
+    
+    /* text-align: center; */
+}
+.forms label {
+    padding:5px;
+    font-size: 14px;
+}
+.forms input {
+    padding: 2px;
+    background-color:rgba(240, 248, 255, 0.685);
+    border-color: #ceeff9e5;
+    border-radius: 10px;
+    color: #000000;
+    
+}
